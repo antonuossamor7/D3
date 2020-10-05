@@ -1,5 +1,5 @@
 #D3
- Correlations Discovered Between Health Risks and Age, Income
+
 Correlations Discovered Between Health Risks and Age, Income
 Current cigarette smoking was highest among people aged 25–44 years and 45–64 years. Current cigarette smoking was lowest among people aged 18-24 years. Nearly 8 of every 100 adults aged 18–24 years (7.8%) Nearly 17 of every 100 adults aged 25–44 years (16.5%) About 16 of every 100 adults aged 45–64 years (16.3%) About 8 of every 100 adults aged 65 years and older (8.4%)
 
